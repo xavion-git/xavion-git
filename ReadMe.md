@@ -1,5 +1,103 @@
-# 💫 About Me:
-Hi, I'm Xavion 👋<br><br>Software Developer<br>Edmonton, Alberta<br>Software Development Diploma @ NAIT (2024–2026)<br><br>I enjoy building systems from scratch, experimenting with machine learning, and working close to the fundamentals of how software works.<br><br>ABOUT ME<br><br>Software Development student at NAIT<br><br>Interested in Machine Learning, Systems Programming, and Visualization<br><br>I enjoy building things from the ground up instead of relying heavily on frameworks<br><br>Currently experimenting with predictive systems and custom rendering engines<br><br>TECH STACK<br><br>Languages<br><br>JavaScript<br><br>TypeScript<br><br>Python<br><br>C#<br><br>SQL<br><br>Frameworks & Tools<br><br>Node.js<br><br>Express<br><br>React<br><br>Blazor<br><br>Supabase<br><br>Git / GitHub<br><br>Concepts<br><br>Machine Learning<br><br>REST APIs<br><br>Software Architecture<br><br>Data Visualization<br><br>Rendering Engines<br><br>FEATURED PROJECTS<br><br>GridSync<br><br>Machine learning system designed to predict potential power outages using historical grid data.<br><br>Features<br><br>ML model trained on electrical grid datasets<br><br>Forecasts grid instability<br><br>API powered backend<br><br>Data processing pipeline<br><br>Technologies<br>Python, Machine Learning, APIs, Supabase<br><br>Planetary Observatory<br><br>A software 3D renderer written completely from scratch in JavaScript using only the HTML Canvas.<br><br>Features<br><br>Custom 3D projection math<br><br>Planetary orbit simulation<br><br>Real-time rendering pipeline<br><br>Camera transformations<br><br>Technologies<br>JavaScript, Canvas API, Linear Algebra<br><br>Blockchain Implementation<br><br>Educational blockchain implementation demonstrating core blockchain concepts.<br><br>Features<br><br>Block generation<br><br>Transaction validation<br><br>Peer networking<br><br>Chain verification<br><br>Technologies<br>TypeScript, Node.js, Express<br><br>WHAT I'M CURRENTLY LEARNING<br><br>Machine Learning Systems<br><br>Distributed Systems<br><br>Low-level graphics programming<br><br>Data engineering pipelines<br><br>CONTACT<br><br>Email: Xaviond14@gmail.com<br><br>LinkedIn: https://www.linkedin.com/in/xavion-dean<br><br>GitHub: https://github.com/xavion-git
+# 💫 About Me
+
+Hi, I'm Xavion 👋
+
+Software Developer  
+Edmonton, Alberta  
+Software Development @ NAIT
+
+I enjoy building systems from scratch, experimenting with machine learning, and working close to the fundamentals of how software works.
+
+---
+
+## About Me
+
+- Software Development student at NAIT
+- Interested in Machine Learning, Systems Programming, and Visualization
+- I enjoy building things from the ground up instead of relying heavily on frameworks
+- Currently experimenting with predictive systems and custom rendering engines
+
+---
+
+
+## Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- C#
+- SQL
+
+### Frameworks & Tools
+- Node.js
+- Express
+- React
+- Blazor
+- Supabase
+- Git / GitHub
+
+### Concepts
+- Machine Learning
+- REST APIs
+- Software Architecture
+- Data Visualization
+- Rendering Engines
+
+---
+
+## Featured Projects
+
+### GridSync
+Machine learning system designed to predict potential power outages using historical grid data.
+
+**Features**
+- ML model trained on electrical grid datasets
+- Forecasts grid instability
+- API powered backend
+- Data processing pipeline
+
+**Technologies**
+Python, Machine Learning, APIs, Supabase
+
+---
+
+### Planetary Observatory
+A software 3D renderer written completely from scratch in JavaScript using only the HTML Canvas.
+
+**Features**
+- Custom 3D projection math
+- Planetary orbit simulation
+- Real-time rendering pipeline
+- Camera transformations
+
+**Technologies**
+JavaScript, Canvas API, Linear Algebra
+
+---
+
+### Blockchain Implementation
+Educational blockchain implementation demonstrating core blockchain concepts.
+
+**Features**
+- Block generation
+- Transaction validation
+- Peer networking
+- Chain verification
+
+**Technologies**
+TypeScript, Node.js, Express
+
+---
+
+## What I'm Currently Learning
+
+- Machine Learning Systems
+- Distributed Systems
+- Low-level graphics programming
+- Data engineering pipelines
+
+---
 
 
 ## 🌐 Socials:
