@@ -32,6 +32,7 @@ I design and build scalable systems — from data models to full-stack applicati
 - 🧩 Actively sharpening DSA + problem-solving for high-level engineering roles
 
 ---
+<img width="700" height="300" alt="terminal (1)" src="https://github.com/user-attachments/assets/64894591-fa03-4b88-98c2-89c417380509" />
 
 ### 🛠️ Main Skills
 
@@ -43,13 +44,6 @@ I design and build scalable systems — from data models to full-stack applicati
 
 <br/>
 
-```
-Languages:     C#, JavaScript, SQL
-Backend:       .NET / ASP.NET
-Frontend:      React, HTML, CSS
-Data:          SQL Server, Data Modeling (Star Schema, ERD)
-Tools:         Git, GitHub, Draw.io, LINQPad
-```
 
 ---
 
