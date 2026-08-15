@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:42a5f5&height=120&section=header" alt="header"/>
-<a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=42a5f5&width=600&lines=Hey%2C+I'm+Xavion+Dean;Software+Engineer;Systems+%26+Data+Architecture;Builder" alt="Typing SVG"/>
 </a>
 
@@ -7,7 +6,7 @@
 
 <img
   src="./ascii-art-dark.svg"
-  width="100%"
+  width="50%"
   alt="ASCII art"
 />
 
